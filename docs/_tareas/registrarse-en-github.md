@@ -6,7 +6,7 @@ myurl: https://github.com/sergio-gr1234
 
 ---
 
-# Registrarse en GitHub (registrarse-en-github)
+# ESTA ES LA DESCROPCIÓN DE LA TAREA
 
 En esta tarea deberás Inscribirte en_________
 * Sigue los pasos explicados 
