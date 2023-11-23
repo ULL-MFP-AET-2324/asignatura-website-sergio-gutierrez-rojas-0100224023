@@ -6,7 +6,7 @@ myurl: https://github.com/sergio-gr1234
 
 ---
 
-# ESTA ES LAS DESCRIPCIÓN DE LA TAREA
+# ESTA ES LA DESCRIPCIÓN DE LA TAREA
 
 En esta tarea deberás Inscribirte en_________
 * Sigue los pasos explicados 
